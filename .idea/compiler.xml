@@ -9,6 +9,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="user" />
         <module name="springboot" />
+        <module name="jdk_pratice" />
       </profile>
     </annotationProcessing>
   </component>
